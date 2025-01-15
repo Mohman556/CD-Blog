@@ -3,7 +3,6 @@ Simple blogging platform.
 
 ## Tools
 - Python Django Backend
-- Angular Frontend
 - PostgreSQL
 - NGINX
 - AWS Hosting
